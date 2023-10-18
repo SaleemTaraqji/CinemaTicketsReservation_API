@@ -1,0 +1,13 @@
+asgiref==3.7.2
+distlib==0.3.7
+Django==4.2.6
+django-suit @ https://github.com/darklow/django-suit/tarball/v2#sha256=b40c916de9528ca86bcccd42d1fd54e7773e5071d2bfd9efc576039c1a441c0b
+djangorestframework==3.14.0
+filelock==3.12.4
+Pillow==10.0.1
+platformdirs==3.11.0
+psutil==5.9.5
+pytz==2023.3.post1
+sqlparse==0.4.4
+tzdata==2023.3
+virtualenv==20.24.5
